@@ -1,7 +1,16 @@
 {
   "name": "teeter-totter-vue",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "author": {
+    "name": "Ali Afsahnoudeh",
+    "email": "ali.afsah1988@gmail.com",
+    "url": "http://aliafsah.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliafsah1988/teeter-totter-vue.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -32,5 +41,14 @@
     "prettier": "^1.18.2",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "keywords": [
+    "teeter-totter",
+    "teeter totter",
+    "game",
+    "web",
+    "vue.js",
+    "vue",
+    "vue game"
+  ]
 }

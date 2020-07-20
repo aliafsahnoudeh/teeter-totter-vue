@@ -25,7 +25,7 @@ export default {
         case gameStatus.ended:
           //TODO add messages some where!
           this.$notify({
-            text: "Simulation's ended!",
+            text: "Game over!",
             type: "warn",
             duration: 5000
           });
