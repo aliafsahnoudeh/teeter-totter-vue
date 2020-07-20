@@ -1,0 +1,24 @@
+.header {
+    display: grid;
+}
+.header .main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #9dc0e1;
+    color: #5f7386;
+}
+.header .main #btn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 7px;
+}
+.header .main #btn button {
+    background-color: transparent ;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #5f7386;
+    width: 80%;
+    padding: 5px;
+}

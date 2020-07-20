@@ -1,0 +1,29 @@
+.teeter-totter {
+    display: grid;
+}
+
+.teeter-totter .main {
+    display: grid;
+    width: 90%;
+    margin-top: 23%;
+    justify-self: center;
+}
+
+.foundation {
+   width: 0;
+   height: 0;
+   display: grid;
+   justify-self: center;
+   border-left: 80px solid transparent;
+   border-right: 80px solid transparent;
+   border-bottom: 160px solid #495867;
+}  
+
+.bar {
+    background-color:#c6d9ec;
+    width: 700px;
+    height: 10px;
+    display: grid;
+    justify-self: center;
+    border-radius: 3px;
+}

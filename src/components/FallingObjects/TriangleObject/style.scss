@@ -1,0 +1,13 @@
+.triangle {
+    width: 0;
+    height: 0;
+    position: relative;
+}
+
+.triangle-text {
+    color: white;
+    position: absolute;
+    left: -19px;
+    top: 40px;
+    width: 40px !important;
+}

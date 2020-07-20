@@ -1,0 +1,38 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  // "eslint.validate": [
+  //     {
+  //       "language": "vue",
+  //       "autoFix": true
+  //     },
+  //     {
+  //       "language": "html",
+  //       "autoFix": true
+  //     },
+  //     {
+  //       "language": "javascript",
+  //       "autoFix": true
+  //     },
+  //     {
+  //       "language": "javascriptreact",
+  //       "autoFix": true
+  //     },
+  //     { "language": "typescript", "autoFix": true },
+  //     { "language": "typescriptreact", "autoFix": true }
+  // ],
+  // "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.enable": true,
+  "prettier.disableLanguages": [],
+  "editor.fontSize": 20,
+  // Set the default
+  // "editor.formatOnSave": true,
+  // // Enable per-language
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "git.ignoreLimitWarning": true
+}
