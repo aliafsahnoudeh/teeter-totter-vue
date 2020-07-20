@@ -17,4 +17,5 @@ Note: Based on physics lows! if you put the object far from base (in our case ce
 <br />
 
 [Live Demo](https://aliafsah1988.github.io/teeter-totter-vue/)
+<br />
 Enjoy playing!
